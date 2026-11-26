@@ -106,8 +106,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="392" height="172" alt="689140854-5706cb53-8c2d-4682-81a8-9c130c26ce3d" src="https://github.com/user-attachments/assets/1b9b9f43-3705-4ed6-8d82-d68ce418ba04" />
 
-<img width="392" height="172" alt="image" src="https://github.com/user-attachments/assets/5706cb53-8c2d-4682-81a8-9c130c26ce3d" />
 
 
 
@@ -118,10 +118,10 @@ Use the IF EXIST conditional statement.
 Make sure the script works for files located in the same directory as the batch file.
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
-
 ## OUTPUT
 
-<img width="626" height="235" alt="image" src="https://github.com/user-attachments/assets/c33a5ba2-a7b3-47ec-a6b8-2dec282912c3" />
+<img width="626" height="235" alt="689142934-c33a5ba2-a7b3-47ec-a6b8-2dec282912c3" src="https://github.com/user-attachments/assets/0ae3e84c-a14c-4358-84ba-d8212b30b838" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -133,7 +133,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-<img width="442" height="390" alt="image" src="https://github.com/user-attachments/assets/995235da-e8c1-400a-8e16-ac20575d96be" />
+<img width="442" height="390" alt="689144119-995235da-e8c1-400a-8e16-ac20575d96be" src="https://github.com/user-attachments/assets/08c5c86e-cfe0-48e8-aa78-d59cb1388802" />
 
 
 # RESULT:
